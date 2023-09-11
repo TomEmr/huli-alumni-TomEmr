@@ -3,9 +3,9 @@
 Welcome to my page, my name is Tom and I'm a fresh alumni of Green Fox Academy. I'm fullstack development graduate and this is my progression in our after-course Huli program, where I'm sharpening my skills to become an even better candidate.
 
 ## Hire me
-LinkedIn: [{link}](https://www.linkedin.com/in/tomáš-emr-8q5w2e0/)
+LinkedIn: [{My LinkedIn profile}](https://www.linkedin.com/in/tomáš-emr-8q5w2e0/)
 
-Email: {link}
+Email: [{Contact email}](tommy.emr@gmail.com/)
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 {project-name}: {link-to-repo}
