@@ -8,14 +8,12 @@ LinkedIn: [{My LinkedIn profile}](https://www.linkedin.com/in/tomáš-emr-8q5w2e
 Email: tommy.emr@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
-{project-name}: {link-to-repo}
+Simple to-do app BE: [{link-to-repo}](https://github.com/TomEmr/simple_todo_app_be)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
-LeetCode: https://leetcode.com/{username}
+LeetCode: https://leetcode.com/TomEmr
 
-Hackerrank: https://www.hackerrank.com/{username}
-
-Codewars: https://www.codewars.com/users/{username}
+Codewars: https://www.codewars.com/users/TomEmr
 
 ## &rarr; [Interview tests](https://github.com/green-fox-academy/teaching-materials/tree/master/project-phase/tech-interview-tests)
 Upload your solutions as files into interview-tests/ directory
