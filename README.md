@@ -5,7 +5,7 @@ Welcome to my page, my name is Tom and I'm a fresh alumni of Green Fox Academy. 
 ## Hire me
 LinkedIn: [{My LinkedIn profile}](https://www.linkedin.com/in/tomáš-emr-8q5w2e0/)
 
-Email: [{Contact email}](tommy.emr@gmail.com)
+Email: tommy.emr@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 {project-name}: {link-to-repo}
