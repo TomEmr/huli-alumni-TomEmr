@@ -9,6 +9,7 @@ Email: tommy.emr@gmail.com
 
 ## &rarr; [Coding projects](https://github.com/green-fox-academy/definitions/tree/master/project-phase/huli/coding-projects)
 Simple to-do app BE: [link-to-repo](https://github.com/TomEmr/simple_todo_app_be)
+Simple to-do app FE: [link-to-repo](https://github.com/TomEmr/simple_todo_app_fe)
 
 ## &rarr; [Interview prep](https://github.com/green-fox-academy/teaching-materials/tree/master/interview)
 LeetCode: https://leetcode.com/TomEmr
